@@ -1,13 +1,13 @@
 # Site settings
-title: Comical Jekyll Theme
+title: Amber Sorenson Is Not Dead
 email: 
 
 keywords: webcomic, comic
 description: > # this means to ignore newlines until "baseurl:"
-  A webcomic theme for jekyll.
+  Amber is turning into a ghost, and her best friend will have to find a way to save her - and save herself *from* her.
 
 
-baseurl: https://chrisanthropic.github.io/comical-jekyll-theme
+baseurl: https://hippothebrave.github.io/amberisnotdead_comicsite
 url: / #Leave this, change the baseurl.
 
 # Exclude our ruby stuff
